@@ -3,7 +3,7 @@ version: '3.8'
 services:
   db:
     image: postgres:14.4-alpine
-    volumes:
+    volumes: 
       - /var/lib/postgresql/data/
     env_file:
       - ./.env
