@@ -1,3 +1,4 @@
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 # YaMDb API
     Проект YaMDb собирает отзывы пользователей на произведения.
 
