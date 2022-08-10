@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    build: xoz9in/yamdb:v1.08.2022
+    build: xoz9in/yamdb_final:latest
     restart: always
     volumes:
       - static_value:/app/static/
