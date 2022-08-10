@@ -1,4 +1,4 @@
-![Yamdb Workflow Status](https://github.com/xoz9in/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![yamdb_workflow](https://github.com/DiSKa4/yamdb_final/workflows/yamdb_workflow/badge.svg)
 # YaMDb API
     Проект YaMDb собирает отзывы пользователей на произведения.
 
