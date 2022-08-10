@@ -9,7 +9,7 @@ services:
       - ./.env
 
   web:
-    image: xoz9in/yamdb_final:latest
+    image: xoz9in/test:latest
     restart: always
     volumes:
       - static_value:/app/static/
